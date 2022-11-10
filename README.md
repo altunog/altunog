@@ -24,10 +24,10 @@ struct Oğuz {
   let pronouns = /"he" | "him"/
   var code: = [Swift, Python, C, SQL, Bash]
   var tools: = [git, Terminal, vim, Figma]
-  var architecture = ["design patterns", "MVC"]
+  var architecture = ["design patterns", "MVC", "MVVM", "VIPER"]
   var techCommunities = {
-    student: "Patika.dev",
-    student: "42Istanbul",
+    trainee: "Patika.dev",
+    cadet: "42Istanbul",
   }
   var challenge: "I got accepted and am doing Pazarama iOS Bootcamp, focused on mobile app development using Swift, UIKit, Alamofire and so on."
 }
