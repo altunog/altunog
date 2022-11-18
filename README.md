@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/148wdpS9I12Cru/giphy.gif" width="50"> A little more about me... 
 ```javascript
 struct Oğuz {
-  let pronouns = /"he" | "him"/
   var code: = [Swift, Python, C, SQL, Bash]
   var tools: = [git, Terminal, vim, Figma]
   var architecture = ["design patterns", "MVC", "MVVM", "VIPER"]
@@ -35,5 +34,6 @@ struct Oğuz {
 
 ### <img src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" width="40"> Feel free to reach out! I'll be happy to meet you.
 - **[altunog@gmail.com](mailto:altunog@gmail.com)**
-- [![Linkedin: oguzkaanaltun](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzkaanaltun/)](https://www.linkedin.com/in/oguzkaanaltun/)
+- [![Linkedin: altunog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/altunog/)](https://www.linkedin.com/in/altunog/)
+- [![Linkedin: altunog](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/19819092/altunog)](https://stackoverflow.com/users/19819092/altunog)
 
